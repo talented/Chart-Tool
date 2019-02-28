@@ -5,6 +5,8 @@
 > A chart tool software to get bar and pie charts from excel files written with Python 2.7
 > A conversion is necessary to use it as a standalone software in windows by using py2exe or any other similar tool. Setup file is already created. 
 
+------------------------------------------
+
 ![Chart Tool](https://raw.githubusercontent.com/talented/chart_tool/master/chart_tool.JPG)
 
 ------------------------------------------
