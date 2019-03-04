@@ -5,7 +5,7 @@
 
 ------------------------------------------
 
-<div style="text-align:center"><img src ="./chart_tool.jpg" /></div>
+<div style="text-align:center"><img src ="./chart_tool.JPG" /></div>
 
 ------------------------------------------
 
